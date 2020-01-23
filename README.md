@@ -9,7 +9,7 @@
 * [GitHub Actions](https://github.com/js-401n15-eoc/lab-06/actions)
 
 #### Documentation
-* [MongoDB docs (MongoDB CRUD Operations)](https://docs.mongodb.com/manual/crud/)
+* [JSON-Server Docs (GitHub)](hhttps://github.com/typicode/json-server)
 
 ### Setup
 #### Tests
