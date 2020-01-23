@@ -1,3 +1,16 @@
 {
-    "categories": []
+  "categories": [
+    {
+      "name": "bg_hmr",
+      "display_name": "big hammer",
+      "description": "It will break walls AND your face!",
+      "id": 1
+    },
+    {
+      "name": "adhesive_medical_strips",
+      "display_name": "band-aid",
+      "description": "Cover up the owwie!",
+      "id": 2
+    }
+  ]
 }

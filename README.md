@@ -1,6 +1,6 @@
 # LAB: HTTP and REST (06)
 
-## Dealing with the Mongo...ose
+## Basic API for Basic Students
 
 ### Author: Earl Jay Caoile
 
