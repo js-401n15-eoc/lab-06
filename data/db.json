@@ -1,15 +1,15 @@
 {
   "products": [
     {
-      "category": "mythical weapons",
-      "name": "bg_hmr",
+      "category": "weapons",
+      "name": "bg hmr",
       "display_name": "Mjolnir",
       "description": "It will break walls AND your face!",
       "id": 1
     },
     {
       "category": "health and household",
-      "name": "adhesive_medical_strips",
+      "name": "adhesive medical strips",
       "display_name": "band-aid",
       "description": "Cover up the owwie!",
       "id": 2
@@ -17,14 +17,14 @@
   ],
   "categories": [
     {
-      "name": "health_and_household",
+      "name": "health and household",
       "display_name": "health and household",
       "description": "stuff to take care of you and your busted house",
       "id": 1
     },
     {
-      "name": "mythical_weapons",
-      "display_name": "mythical weapons",
+      "name": "weapons",
+      "display_name": "weapons",
       "description": "objects with which to SMITE your enemies!",
       "id": 2
     }
