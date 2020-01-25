@@ -9,9 +9,12 @@
 * [GitHub Actions](https://github.com/js-401n15-eoc/lab-06/actions)
 
 #### Documentation
-* [JSON-Server Docs (GitHub)](hhttps://github.com/typicode/json-server)
+* [JSON-Server Docs (GitHub)](https://github.com/typicode/json-server)
 
 ### Setup
+#### Starting up the app
+Type the following into the Terminal or Git Bash: `json-server --watch ./data/db.json
+
 #### Tests
 * Testing command: `npm test` from root directory
 
